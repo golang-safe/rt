@@ -34,3 +34,7 @@ rejected by the compiler (rule R-123) rather than silently treated as an intrins
 See [Spec 012](https://github.com/golang-safe/safego/blob/main/spec/012_safego_canonical_intrinsic_packages/spec.md)
 for the namespace rules and [Spec 001](https://github.com/golang-safe/safego/blob/main/spec/001_safego_language_and_architecture/spec.md)
 for the language.
+
+## License
+
+Mozilla Public License Version 2.0. See [LICENSE](LICENSE).

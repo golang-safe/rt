@@ -5,4 +5,4 @@
 // release job publishes this directory to github.com/golang-safe/rt at the matching tag.
 module pkg.safego.dev/rt
 
-go 1.25.0
+go 1.26.2
